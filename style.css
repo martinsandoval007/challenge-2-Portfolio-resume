@@ -1,0 +1,22 @@
+header{
+    font-size: 20px;
+    padding: 25px;
+    display: block;
+}
+h1{
+    vertical-align: bottom;
+}
+.menu{
+    text-align: right;
+    
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+ 
+
+}
